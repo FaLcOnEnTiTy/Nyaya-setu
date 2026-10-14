@@ -36,3 +36,5 @@ next-env.d.ts
 # SQLite local DB
 *.db-journal
 dev.db-journal
+
+.vercel
